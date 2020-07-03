@@ -1,0 +1,63 @@
+ #screenGrab()
+    #clickAlltheCookies(10000, xCookie, yCookie)
+    #get_cordsCookie()
+    #get_cords()
+
+    """
+    mousePos(Cord.Cursor)
+    time.sleep(1)
+    mousePos(Cord.Grandma)
+    time.sleep(1)
+    mousePos(Cord.Farm)
+    time.sleep(1)
+    mousePos(Cord.Mine)
+    time.sleep(1)
+    mousePos(Cord.Factory)
+    time.sleep(1)
+    mousePos(Cord.Bank)
+    time.sleep(1)
+    mousePos(Cord.Temple)
+    time.sleep(1)
+    mousePos(Cord.Wizardtower)
+    time.sleep(1)
+    mousePos(Cord.Rocket)
+    time.sleep(1)
+    mousePos(Cord.Zerg)
+    time.sleep(1)
+    """
+    
+
+
+
+    """
+    print ("imCursor available:")
+    print (im.getpixel(imBuilds.imCursor))
+    print ("\n")
+
+    print ("imGrandma available:")
+    print (im.getpixel(imBuilds.imGrandma))
+    print ("\n")
+
+    print ("imFarm available:")
+    print (im.getpixel(imBuilds.imFarm))
+    print ("\n")
+
+    print ("imMine available:")
+    print (im.getpixel(imBuilds.imMine))
+    print ("\n")
+
+    print ("imFactory available:")
+    print (im.getpixel(imBuilds.imFactory))
+    print ("\n")
+
+    print ("imBank available:")
+    print (im.getpixel(imBuilds.imBank))
+    print ("\n")
+
+    im = screenGrab()
+    print ("imWizardtower available:")
+    print (im.getpixel(imBuilds.imWizardtower))
+    print ("\n")
+ 
+  """
+    investCookies()
